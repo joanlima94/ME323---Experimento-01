@@ -1,7 +1,8 @@
 
-#															ME323 - EXPERIMENTO 01
-#LUKAS SILVA DA ROSA 		RA:183167
+#				 											ME323 - EXPERIMENTO 01
+#LUKAS SILVA DA ROSA 		        RA:183167
 #JOAN LIMA RIOS				RA:175870
+#FABIO PERRONE				RA:170788
 
 import random
 import matplotlib.pyplot as plt
